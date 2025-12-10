@@ -11,3 +11,5 @@ public class ScoreTrigger : MonoBehaviour
         Destroy(collider.gameObject);
     }
 }
+
+

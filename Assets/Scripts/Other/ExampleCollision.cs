@@ -13,6 +13,7 @@ public class ExampleCollision : MonoBehaviour
         {
             Debug.Log("Hit the player");
             Player playerScript = collision.collider.gameObject.GetComponent<Player>();
+
         }
     }
 
